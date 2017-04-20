@@ -1,0 +1,1 @@
+Test text in this test file will ensure the docScanner test tests reading the test file. Confused?

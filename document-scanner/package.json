@@ -1,0 +1,14 @@
+{
+  "name": "document-scanner",
+  "version": "1.0.0",
+  "description": "Node script that scans the content of a txt file. Output is an object of words where the word with the highest occurrence comes first",
+  "main": "docScanner.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node docScanner.js test.txt"
+  },
+  "author": "Roy Scheffers",
+  "license": "ISC"
+}
